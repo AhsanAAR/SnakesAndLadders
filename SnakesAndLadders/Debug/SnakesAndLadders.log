@@ -1,0 +1,3 @@
+﻿  19001_19010.cpp
+D:\VS Projects\OLDS\SnakesAndLadders\SnakesAndLadders\19001_19010.cpp(205,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SnakesAndLadders.vcxproj -> D:\VS Projects\OLDS\SnakesAndLadders\Debug\SnakesAndLadders.exe
